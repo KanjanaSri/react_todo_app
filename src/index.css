@@ -1,0 +1,14 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html,
+body {
+  background-image: linear-gradient(to right, #ec77ab 0%, #7873f5 100%);
+  font-size: 1.1rem;
+  font-family: "Quicksand", sans-serif;
+  height: 100%;
+}
+
